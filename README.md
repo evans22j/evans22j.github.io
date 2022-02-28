@@ -1,23 +1,19 @@
 ## Hi there 👋
-<h1 align="center">I'm EVANS SITIBEKISO</h1>
+<h1 align="center">I'm Evans Sitibekiso</h1>
+<p align="center"> My love for Web Development started when I was working at Puzix Technology. I have been hooked since then and I love adding to the World Wide Web. I am highly motivated and career driven, hence why I joined Microvese. I am someone who is proactive and take ownership of my own personal development and career progression. </p>
 <h3 align="center">Student at Microverse🌟<img align="center"
       src="https://media-exp1.licdn.com/dms/image/C560BAQHr8P7gQ95yCQ/company-logo_100_100/0/1578673850004?e=1652918400&v=beta&t=RXH0ssSZr97PvQaT2jIxUMIaJkUaz8y790PmEicZ6WA"
       alt="adam pithewan" height="30" width="40" /></a>.</h3>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Sentayhu Berhanu" /></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Evans sitibekiso" /></p>
 
 
 
 <br>
 
-
 - 🌱 I’m currently learning Web Development.
 
 - 📫 How to reach me **jevacrism@gmail.com**
-
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/evans22j" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 <br>
 
@@ -66,3 +62,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <br>
 
+<p align="center">
+	<strong> Kindly consider giving my work a :star: to show some :heart:</strong>
+</p>
